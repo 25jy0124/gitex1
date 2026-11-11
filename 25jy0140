@@ -1,12 +1,9 @@
 public class Hello {
 
-<<<<<<< HEAD
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello");
 	}
 
 }
-=======
-aaa
->>>>>>> branch 'main' of git@github.com:25jy0124/gitex1.git
+12313
